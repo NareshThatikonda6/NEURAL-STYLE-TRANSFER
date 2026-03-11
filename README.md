@@ -24,6 +24,6 @@ The code for this assignment was written and executed using Visual Studio Code (
 
 Neural Style Transfer has many practical applications in digital art, graphic design, photo editing, and creative media. It is used in applications that convert photographs into artistic paintings, apply different visual styles to images, and enhance creative image processing. Many mobile applications and photo editing tools use similar AI-based techniques to transform images into artwork inspired by famous artists. Through this assignment, we gain an understanding of how deep learning models can be used to combine artistic styles with photographic content to create visually appealing images.
 
-#OUTPUT
+#OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/93a899ac-2fb6-441a-8458-1e29d15934ed)
