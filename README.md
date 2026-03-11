@@ -11,3 +11,7 @@ DOMAIN : ARTIFICIAL INTELLIGENCE
 DURATION : 6 WEEKS
 
 MENTOR : NEELA SANTHOSH
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/93a899ac-2fb6-441a-8458-1e29d15934ed)
